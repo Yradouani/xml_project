@@ -1,0 +1,16 @@
+{
+  "name": "extensible_mammal_library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.2.0",
+    "fast-xml-parser": "^4.0.14",
+    "xml2js": "^0.4.23"
+  }
+}

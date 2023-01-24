@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="./style/style.css">
+    <title>Extensible Mammal Library</title>
+</head>
+
+<body>
+    <audio controls loop autoplay id="audio">
+        <source src="./assets/sound.mp3" type="audio/mpeg">
+        <source src="your-audio-file.ogg" type="audio/ogg">
+        Your browser does not support the audio element.
+    </audio>
+
+    <!-- <audio src="./assets/sound.mp3" controls loop autoplay style="display:none" id="audio"></audio> -->
+
+    <header>
+        <nav class="position-fixed top-0 w-100 d-flex justify-content-center">
+            <ul class="d-flex w-50 p-0 justify-content-around fs-4 m-0 align-items-center">
+                <li class="h-100 d-flex px-5 align-items-center"><a href="./index.html">Home</a></li>
+                <li class="h-100 d-flex px-5 align-items-center"><a href="#animals">Animals</a></li>
+                <li class="h-100 d-flex px-5 align-items-center"><a href="./statistiques.html">Statistics</a></li>
+            </ul>
+        </nav>
+        <img src="./assets/bg.jpg" alt="" class="w-100">
+        <div class="container-text position-absolute text-center start-50 ">
+            <span class="text1">Welcome in the</span>
+            <span class="text2">Jungle</span>
+        </div>
+    </header>
+
+    <section id="animals" class="d-flex justify-content-around flex-wrap">
+
+    </section>
+    <footer>
+
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+        crossorigin="anonymous"></script>
+    <script src="./js/index.js"></script>
+</body>
+
+</html>

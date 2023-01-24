@@ -1,0 +1,109 @@
+<root>
+<crab>
+    <name>Crab</name>
+    <weight>12.7kg</weight>
+    <size>18cm</size>
+    <speed>16km/h</speed>
+    <lifespan>4 years</lifespan>
+    <location>Every ocean on earth</location>
+    <food>Omnivore</food>
+    <dangerousness>Pretty much harmless</dangerousness>
+    <picture>./assets/crabe.jpg</picture>
+</crab>
+
+<dog>
+    <name>Dog</name>
+    <weight>up to 100kg</weight>
+    <size>up to 110cm</size>
+    <speed>72km/h</speed>
+    <lifespan>13 years</lifespan>
+    <location>Mostly in household but in the wild => Forests and brush lands</location>
+    <food>Omnivore</food>
+    <dangerousness>Can be deadly</dangerousness>
+    <picture>./assets/dog1.jpg</picture>
+</dog>
+
+<dolphin>
+    <name>Dolphin</name>
+    <weight>150kg</weight>
+    <size>2m</size>
+    <speed>60km/h</speed>
+    <lifespan>40 years</lifespan>
+    <location> worldwide, mostly in shallow seas of the continental shelves</location>
+    <food>Carnivore</food>
+    <dangerousness>Can be deadly</dangerousness>
+    <picture>./assets/dauphin.jpg</picture>
+</dolphin>
+
+<elephant>
+    <name>Elephant</name>
+    <weight unit="kg">4000kg</weight>
+    <size unit="m">3m</size>
+    <speed unit="km/h">40</speed>
+    <lifespan unit="years">60</lifespan>
+    <location>Africa</location>
+    <food>Herbivore</food>
+    <dangerousness>deadly</dangerousness>
+    <picture>./assets/elephant.png</picture>
+</elephant>
+
+<monkey>
+    <name>Monkey</name>
+    <weight>15kg</weight>
+    <size>40cm</size>
+    <speed>55km/h</speed>
+    <lifespan>20 years</lifespan>
+    <location>Most monkeys live in the tropical rainforests of Asia, Africa, and Central and South America, or the savannas of Africa.</location>
+    <food>Omnivore</food>
+    <dangerousness>can be dangerous</dangerousness>
+    <picture>./assets/singe.jpg</picture>
+</monkey>
+
+<rabbit>
+    <name>Rabbit</name>
+    <weight>2kg</weight>
+    <size>40cm</size>
+    <speed>40km/h</speed>
+    <lifespan>9 years</lifespan>
+    <location>Rabbits prefer short grassy areas either found naturally, as in semi-arid areas, or resulting from heavily grazed pastures.</location>
+    <food>Herbivore</food>
+    <dangerousness>harmless</dangerousness>
+    <picture>./assets/lapin.jpg</picture>
+</rabbit>
+
+<lamb>
+    <name>Lamb</name>
+    <weight>105kg</weight>
+    <size>100cm</size>
+    <speed>24km/h</speed>
+    <lifespan>11 years</lifespan>
+    <location>Wild sheep are most often found across the Middle East, Asia, Central Europe and North America, where they inhabit steep mountainous areas.</location>
+    <food>Herbivores</food>
+    <dangerousness>harmless</dangerousness>
+    <picture>./assets/lamb.png</picture>
+</lamb>
+
+<frog>
+    <name>Frog</name>
+    <weight>22.7</weight>
+    <size>8cm</size>
+    <speed>50m/h</speed>
+    <lifespan>11 years</lifespan>
+    <location>In the most varied of our country environments, from rainforests and mountains to deserts. </location>
+    <food>Carnivore</food>
+    <dangerousness>harmless</dangerousness>
+    <picture>./assets/frog.png</picture>
+</frog>
+
+ <panda>
+    <name>Panda</name>
+    <weight>100kg</weight>
+    <size>80cm</size>
+    <speed>32km/h</speed>
+    <lifespan>20 years</lifespan>
+    <location>Pandas live mainly in temperate forests high in the mountains of southwest China. </location>
+    <food>Carnivore</food>
+    <dangerousness>harmless</dangerousness>
+    <picture>./assets/panda.jpg</picture>
+</panda>
+</root>
