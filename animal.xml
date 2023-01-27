@@ -20,7 +20,7 @@
     <location>Mostly in household but in the wild => Forests and brush lands</location>
     <food>Omnivore</food>
     <dangerousness>Can be deadly</dangerousness>
-    <picture>./assets/dog1.jpg</picture>
+    <picture>./assets/dog.jpg</picture>
 </dog>
 
 <dolphin>
